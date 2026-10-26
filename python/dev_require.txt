@@ -12,7 +12,7 @@ pyparsing==2.4.7
 
 # The following packages are required for development only
 wheel==0.36.2
-setuptools==52.0.0
+setuptools==84.1.0
 bumpversion
 pytest
 pytest-cov
